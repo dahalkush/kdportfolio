@@ -1,0 +1,150 @@
+head:
+  title: "Kushal Dahal's Portfolio"
+
+# showcase
+showcase:
+  enable: true
+  title: "Hello, I’m Kushal Dahal."
+  subtitle: "Data Enthusiast"
+  description: "Kushal is a Data Enthusiast who has several years of experience working on a complete data life cycle."
+  image:
+    x: "img/showcase/SUV4.gif"
+    _2x: "img/showcase/SUV4.gif"
+  imageMobile:
+    x: "img/showcase/SUV4.gif"
+    _2x: "img/showcase/SUV4.gif"
+  
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contact Kushal"
+    URL: "mailto:dahalkushal31@gmail.com"
+
+  socialLinks:
+    - icon: "linkedin"
+      URL: "https://www.linkedin.com/in/kushal-dahal-225300147/"
+
+    - icon: "github"
+      URL: "https://github.com/dahalkush"
+
+    - icon: "twitter"
+      URL: "https://twitter.com/dahalkushal31"
+
+# about
+about:
+  enable: true
+  title: "Who am I?"
+  content: 
+    <p class="lead">
+    <strong>I love abstracting innovative findings and trends on data.
+    </strong> My passion is learning and experiencing new tools and contents. During my free time I enjoy exploring new placess, food and 
+    hanging out with my friends. 
+    </p>
+    <p class="lead">
+    <strong>My area of focus</strong> is handling the data efieciently to get 
+    most from it. I design a complete data life cycle using efficient data tools
+    and techniques for better decision making and getting valuable findings and trends.
+    I enjoy working on dataset and viewing it from multiple perspectives.
+    My first priority has always been to make sure the data is well standardized and preprocessed 
+    before analysis avoiding biasnes and wrong results and conclusion.
+    </p>
+  button:
+    icon: "icon-smile-fill"
+    btnText: "About Me"
+    URL: "https://www.linkedin.com/in/kushal-dahal-225300147/"
+  image:
+    x: "img/who-am-i/kushal.jpg"
+    _2x: "img/who-am-i/kushal.jpg"
+
+# experience
+experience:
+  enable: true
+  title: "Experience"
+  description: "3+ years of working experience in complete data life cycle from data abstraction and preprocessing, ETL and Data Engineering to Data Analysis, and Machine learning/Statistical implementation for decision making."
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "Linkedin"
+    URL: "https://www.linkedin.com/in/kushal-dahal-225300147/"
+  button2:
+    icon: "icon-profile-fill"
+    btnText: "View My Resume"
+    URL: "https://kushaldahalresume.tiiny.site/"
+
+  items:
+    - title: "Data Analyst"
+      company: "Ferris State University"
+      duration: "Sep 2022 - Current"
+
+    - title: "Research Assistant"
+      company: "Grand Valley State University"
+      duration: "Aug 2021 - Aug 2022"
+
+    - title: "Database Developer"
+      company: "Swift Technologies"
+      duration: "Jan 2020 - July 2021"
+
+    - title: "Data Engineering Intern"
+      company: "Nepal Tech Solutions"
+      duration: "Jan 2018 - Aug 2018"
+# education
+education:
+  enable: true
+  title: "Education"
+  items:
+    - university: "Grand Valley State University"
+      year: "2021-2023"
+      degree: "Masters in Data Science and Analytics"
+
+    - university: "Tribhuvan University"
+      year: "20013-2018"
+      degree: "Bachelors in Computer Engineering"
+
+
+# Client & Work
+client_and_work:
+  title: "Portfolio"
+  enable: true
+  
+  enable_clients: false
+      
+  works:
+    - title: "Graduate Students Distribution in Grand Valley State University"
+      description: "This project analyze and describe the trends of Graduate Students in Grand Valley State University."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Launch Application"
+        URL: "https://analyticskushal.shinyapps.io/GVSU-Graduate-Student-Visualization/?_ga=2.239541059.1556275095.1661470525-1092445439.1632953286"
+      image:
+        x: "img/who-am-i/outfilet.gif"
+        _2x: "img/who-am-i/outfilet.gif"
+      is_even: true
+
+    - title: "RMP Professor Reviews Analysis"
+      description: "We explored the distribution of good professors for university locations and classifications and understand whether a professor perceived difficulty level affects their RMP rating. A granular review level investigation analyzing the relationship between a course difficulty level and student ratings and investigate the main topics and emotions prevalent in student reviews."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Github Link"
+        URL: "https://github.com/dahalkush/Python-SQL-RateMyProfessorReviewsAnalysis/"
+      image:
+        x: "img/who-am-i/newplot.png"
+        _2x: "img/who-am-i/newplot.png"
+      is_even: false
+# contact
+contact:
+  enable: true
+  title: "Contact Kushal"
+    
+  image:
+    x: "img/who-am-i/kushal1.jpg"
+    _2x: "img/who-am-i/kushal1.jpg"
+    
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Send Message"
+    btnAction: 'mailto:your-email@gmail.com'
+    
+  email:
+    title: "Email"
+    email: '<a href="mailto:dahalkushal31@gmail.com">dahalkushal31@gmail.com</a>'
+
+  
+
